@@ -1,22 +1,35 @@
-## Hi there 👋
+# Hi there 👋, I'm MH
 
-<!--
-**soymh/soymh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate mathematics teacher with a strong interest in Machine Learning and Programming. Currently learning ML with focus on NLP, Computer Vision, and Generative AI. Building towards satisfying results by the end of the year!
 
-Here are some ideas to get you started:
+## 📚 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   👨‍🏫 Math Teacher by day, AI Enthusiast by night!
+*   💻 Proficient in Python and capable of learning other languages as needed.
+*   🌱 Currently deepening my knowledge in Machine Learning and Deep Learning.
+*   ✨ Exploring the exciting worlds of NLP, Computer Vision, and Image Diffusion Models.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=soymh&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/soymh/github-readme-stats#gh-dark-mode-only)
-[![Soymh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=soymh&rank_icon=github&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/soymh/github-readme-stats#gh-light-mode-only)
+## 🛠️ Tech Stack
 
+*   **Programming Language:** Python
+*   **ML Libraries & Frameworks:** NumPy, Transformers, scikit-learn, (Barely) PyTorch
+*   **AI Focus Areas:** Natural Language Processing (NLP), Computer Vision, Image Diffusion Models, Deep Learning, Generative AI
+*   **Other Tools:** Docker
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soymh&layout=donut)](https://github.com/soymh/github-readme-stats)
+## 🔭 Current Projects
+
+*   **Aiden (Telegram Bot):** Contributing to my forked repository, adding extra capabilities to this telegram bot, though it is not my main project and I often contribute to it.
+*   **Future ML Projects:** Looking forward to sharing more exciting ML projects as I progress in my learning journey!
+*   **More AI tools:** Trying to make more AI tools, while maintaining and adding more capabilites to the previous ones!
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soymh&show_icons=true&theme=dark)](https://github.com/soymh)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soymh&layout=compact&theme=dark)](https://github.com/soymh)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soymh&theme=dark)](https://github.com/soymh)
+
+## Contact Me
+
+[![Email](https://img.shields.io/badge/Email-176279314%2Bsoymh%40users.noreply.github.com-informational?style=flat&logo=gmail&logoColor=white&color=28a745)](mailto:176279314+soymh@users.noreply.github.com)
