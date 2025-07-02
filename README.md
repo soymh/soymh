@@ -19,7 +19,7 @@ A passionate mathematics teacher with a strong interest in Machine Learning and 
 ### Skills
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicon/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
@@ -31,7 +31,7 @@ A passionate mathematics teacher with a strong interest in Machine Learning and 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicon/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="40" height="40"/>
   </a>
 
 </p>
